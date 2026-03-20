@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name "Ayush Sharma"
+          git config --global user.name "Ayushsharma1011"
           git config --global user.email "ayush988277@gmail.com"
 
           git add .
